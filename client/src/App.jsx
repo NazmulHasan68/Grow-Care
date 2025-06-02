@@ -18,7 +18,7 @@ import TravelLayout from "./pages/Travel_manager/TravelLayout";
 import Travel_Dashboard from "./pages/Travel_manager/Travel_control_page/Travel_Dashboard";
 import ConsultationLayout from "./pages/Consultaion_manager/ConsultationLayout";
 import Consultation_Dashboard from "./pages/Consultaion_manager/consultation_control_page.jsx/Consultation_Dashboard";
-import UserLayout from './pages/User_pages/UserLayout';
+import UserLayout from "./pages/User_pages/UserLayout";
 import Home_page from "./pages/User_pages/User_contro_page/Home_page";
 import Travel_page_ueser from "./pages/User_pages/User_contro_page/travel_user/Travel_page_ueser";
 import Medicine_Page_user from "./pages/User_pages/User_contro_page/medicine_user/Medicine_Page_user";
