@@ -2,6 +2,8 @@ import React from 'react'
 import { Outlet } from 'react-router-dom'
 import Admin_sidebar from './Admin_sidebar'
 
+
+
 export default function AdminLayout() {
   return (
     <div className='mt-20 flex '>
