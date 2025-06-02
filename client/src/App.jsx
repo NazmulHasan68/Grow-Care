@@ -26,9 +26,9 @@ import Consultation_user_Layout from "./pages/User_pages/User_contro_page/consul
 import Medicine_user_Layout from "./pages/User_pages/User_contro_page/medicine_user/Medicine_user_Layout";
 import Consultation_page_user from "./pages/User_pages/User_contro_page/consultation_user/Consultation_page_user";
 import Travel_user_layout from "./pages/User_pages/User_contro_page/travel_user/Travel_user_layout";
-import Medicine_product_details from "./pages/User_pages/User_contro_page/medicine_user/medicine_product_details";
+import Medicine_product_details from "./pages/User_pages/User_contro_page/medicine_user/Medicine_product_details";
 import Travel_Hospital from "./pages/User_pages/User_contro_page/travel_user/Travel_Hospital";
-import Consultation_video from "./pages/User_pages/User_contro_page/consultation_user/consultation_video";
+import Consultation_video from "./pages/User_pages/User_contro_page/consultation_user/Consultation_video";
 import Consultation_doctor_search from "./pages/User_pages/User_contro_page/consultation_user/Consultation_doctor_search";
 import UserControllerLayout from "./pages/User_Dashboard/UserControllerLayout";
 import UserCost from "./pages/User_Dashboard/UserDashoardController/UserCost";
